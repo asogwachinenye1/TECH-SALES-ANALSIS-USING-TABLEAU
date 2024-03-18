@@ -40,6 +40,7 @@ The owner of TechDelta Nig. Ltd a laptop shop located in Rivers State, Nigeria, 
 
 
 ·The business is experiencing an annual growth rate of 12%.
+
 ![image](https://github.com/asogwachinenye1/TECH-SALES-ANALSIS-USING-TABLEAU/assets/161091047/078fe074-440c-4201-b1c7-2ce6002dd9a6)
 
 
