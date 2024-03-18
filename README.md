@@ -32,10 +32,12 @@ The owner of TechDelta Nig. Ltd a laptop shop located in Rivers State, Nigeria, 
 ![image](https://github.com/asogwachinenye1/TECH-SALES-ANALSIS-USING-TABLEAU/assets/161091047/9790cfc2-9587-4299-9da0-3699d8c65450)
 
 ·The number of laptop brands is 5 (HP, Apple, Lenovo, Dell, Compaq).
-![image](https://github.com/asogwachinenye1/TECH-SALES-ANALSIS-USING-TABLEAU/assets/161091047/5b9e6b67-d96f-44d8-8720-a9f2e55188ad)
+![image](https://github.com/asogwachinenye1/TECH-SALES-ANALSIS-USING-TABLEAU/assets/161091047/72a35343-ceea-4eac-b2a0-b12e765f8601)
+
+
 
 ·The number of branches is 3 (Woji, GRA and Town).
-![image](https://github.com/asogwachinenye1/TECH-SALES-ANALSIS-USING-TABLEAU/assets/161091047/349863d0-380f-4db9-a472-0ad37d8ab2a9)
+
 
 ·The business is experiencing an annual growth rate of 12%.
 ![image](https://github.com/asogwachinenye1/TECH-SALES-ANALSIS-USING-TABLEAU/assets/161091047/078fe074-440c-4201-b1c7-2ce6002dd9a6)
